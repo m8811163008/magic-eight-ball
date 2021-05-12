@@ -14,3 +14,6 @@
 
 ### تصاویر نرم افزار
 
+<img alt="app picture" src="https://github.com/m8811163008/magic-eight-ball/blob/master/images/0.jpg?raw=true" width="300px">
+<img alt="app picture" src="https://github.com/m8811163008/magic-eight-ball/blob/master/images/1.jpg?raw=true" width="300px">
+<img alt="app picture" src="https://github.com/m8811163008/magic-eight-ball/blob/master/images/2.jpg?raw=true" width="300px">
